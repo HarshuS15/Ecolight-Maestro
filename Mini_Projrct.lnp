@@ -1,0 +1,13 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\dummy_main.o"
+".\ecoadc.o"
+".\ecointerrupt.o"
+".\ecokeypad.o"
+".\ecolcd.o"
+".\ecoled.o"
+".\ecortc.o"
+--strict --scatter ".\Mini_Projrct.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Mini_Projrct.map" -o .\Mini_Projrct.axf

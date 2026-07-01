@@ -1,0 +1,16 @@
+Dependencies for Project 'Mini_Projrct', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x6A4388F0)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\dummy_main.c)(0x6A43890B)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\dummy_main.o --omf_browse .\dummy_main.crf --depend .\dummy_main.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+F (.\ecoadc.c)(0x6A43892D)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\ecoadc.o --omf_browse .\ecoadc.crf --depend .\ecoadc.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+F (.\ecointerrupt.c)(0x6A438949)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\ecointerrupt.o --omf_browse .\ecointerrupt.crf --depend .\ecointerrupt.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+F (.\ecokeypad.c)(0x6A438966)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\ecokeypad.o --omf_browse .\ecokeypad.crf --depend .\ecokeypad.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+F (.\ecolcd.c)(0x6A438999)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\ecolcd.o --omf_browse .\ecolcd.crf --depend .\ecolcd.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+F (.\ecoled.c)(0x6A4389B6)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\ecoled.o --omf_browse .\ecoled.crf --depend .\ecoled.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+F (.\ecortc.c)(0x6A438A07)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\ecortc.o --omf_browse .\ecortc.crf --depend .\ecortc.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
